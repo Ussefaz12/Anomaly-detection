@@ -6,6 +6,6 @@ The dataset used for this project is available on Kaggle through the following l
 
 ## Versions Used
 
-- Python version: 3.8.5
-- TensorFlow version: 2.6.0
-- Scikit-learn version: 0.24.2
+- Python version: 3.11.5
+- TensorFlow version: 2.13.0
+- Scikit-learn version: 1.2.1
